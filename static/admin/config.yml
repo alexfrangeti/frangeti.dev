@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: frangeti.dev
+  repo: alexfrangeti/frangeti.dev
 
 media_folder: static/assets
 public_folder: assets
